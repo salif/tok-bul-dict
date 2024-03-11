@@ -9,6 +9,7 @@
 
 * [Уебсайт](https://salif.github.io/tok_bul_dictionary/)
 * [Програмен код](https://github.com/salif/tok_bul_dictionary)
+* [Codeberg](https://codeberg.org/salif/tok_bul_dictionary)
 * [Matrix чат стая](https://matrix.to/#/#tok-bul-dictionary:mozilla.org)
 
 ## Състояние
