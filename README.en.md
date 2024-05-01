@@ -15,3 +15,9 @@ vocabulary, simplicity, and ease of acquisition.
 ## Status
 
 > Work in progress
+
+## Contributing
+
+The author of the dictionary is not a linguist and does not know the language
+well and would appreciate help from volunteers. If you're interested, join the
+Matrix chat room.
