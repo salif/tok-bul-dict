@@ -4,7 +4,7 @@ plugins:
 
 title: Toki Pona - Bulgarian dictionary
 description: Toki Pona - Bulgarian dictionary
-repository: salif/tok_bul_dictionary
+repository: salif/tok-bul-dict
 
 author:
   name: Salif Mehmed

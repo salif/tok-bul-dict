@@ -7,10 +7,10 @@ vocabulary, simplicity, and ease of acquisition.
 
 ## Links
 
-* [Website](https://salif.github.io/tok_bul_dictionary/README.en.html)
-* [Source code](https://github.com/salif/tok_bul_dictionary)
-* [Codeberg](https://codeberg.org/salif/tok_bul_dictionary)
-* [Matrix chat room](https://matrix.to/#/#tok-bul-dictionary:mozilla.org)
+* [Website](https://salif.github.io/tok-bul-dict/README.en.html)
+* [Source code](https://codeberg.org/salif/tok-bul-dict)
+* [Source code \(GitHub\)](https://github.com/salif/tok-bul-dict)
+* [Chat room \(Matrix\)](https://matrix.to/#/#tok-bul-dictionary:mozilla.org)
 
 ## Status
 

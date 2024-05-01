@@ -7,10 +7,10 @@
 
 ## Хипервръзки
 
-* [Уебсайт](https://salif.github.io/tok_bul_dictionary/)
-* [Програмен код](https://github.com/salif/tok_bul_dictionary)
-* [Codeberg](https://codeberg.org/salif/tok_bul_dictionary)
-* [Matrix чат стая](https://matrix.to/#/#tok-bul-dictionary:mozilla.org)
+* [Уебсайт](https://salif.github.io/tok-bul-dict/)
+* [Програмен код](https://codeberg.org/salif/tok-bul-dict)
+* [Програмен код \(GitHub\)](https://github.com/salif/tok-bul-dict)
+* [Чат стая \(Matrix\)](https://matrix.to/#/#tok-bul-dictionary:mozilla.org)
 
 ## Състояние
 
